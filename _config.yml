@@ -65,7 +65,7 @@ features                                  :
 
   - title                                 : Recommendation system
     description                           : CardioBot powered by smart recommendation system, which analyze you Heart Rate and give you recommendations on improving every aspect of your heart.
-    fontawesome_icon_name                 : comment-medical
+    fontawesome_icon_name                 : comments
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
