@@ -44,11 +44,11 @@ features                                  :
     fontawesome_icon_name                 : book-open
 
   - title                                 : Ежедневные напоминания
-    description                           : GetBetter может напоминать вам записывать итоги дня, чтобы прокачивать колесо жизненного баланса.
+    description                           : GetBetter может напоминать тебе записывать итоги дня, чтобы прокачивать колесо жизненного баланса.
     fontawesome_icon_name                 : bell
 
   - title                                 : Облачные технологии
-    description                           : Ваши данные хранятся в облаке и доступны с любого iOS-устройства.
+    description                           : Твои данные хранятся в облаке и доступны с любого iOS-устройства.
     fontawesome_icon_name                 : cloud
 
   - title                                 : Открывай достижения
