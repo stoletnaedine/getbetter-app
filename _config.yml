@@ -32,16 +32,28 @@ youtube_username                          : zavtravTexas
 features                                  :
 
   - title                                 : Понятная инфографика
-    description                           : Наглядная круговая диаграмма, показывающая прогресс в восьми сферах жизни (работа, здоровье, творчество, отношения, отдых, духовность, финансы, окружение).
-    fontawesome_icon_name                 : chart-bar
+    description                           : Интерактивная круговая диаграмма, показывающая прогресс в восьми сферах жизни.
+    fontawesome_icon_name                 : chart-pie
+
+  - title                                 : Дневник важных событий
+    description                           : Ведите дневник ярких событий своей жизни. Прикрепляйте к постам фотографии. Всегда помните, что сделало вас лучше.
+    fontawesome_icon_name                 : book-open
 
   - title                                 : Ежедневные напоминания
-    description                           : GetBetter может напоминать вам записывать итоги дня, чтобы прокачивать сферы. Включить уведомления можно в настройках приложения.
-    fontawesome_icon_name                 : calendar-alt
-    
-  - title                                 : Дневник важных событий
-    description                           : Вы можете вести дневник событий своей жизни с фотографиями и вспоминать, что сделало вас лучше.
-    fontawesome_icon_name                 : comments
+    description                           : GetBetter может напоминать вам записывать итоги дня, чтобы прокачивать колесо жизненного баланса.
+    fontawesome_icon_name                 : bell
+
+  - title                                 : Облачные технологии
+    description                           : Ваши данные хранятся в облаке и доступны с любого iOS-устройства.
+    fontawesome_icon_name                 : cloud
+
+  - title                                 : Восемь важнейших сфер твоей жизни
+    description                           : Работа, духовность, отдых, отношения, здоровье, финансы, окружение, творчество. Контролируй своё колесо жизни и поддерживай его баланс.
+    fontawesome_icon_name                 : balance-scale
+
+  - title                                 : Открывай достижения
+    description                           : При успешном достижении целей ты будешь получать награды.
+    fontawesome_icon_name                 : trophy
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
