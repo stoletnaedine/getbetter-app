@@ -78,7 +78,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0
 topbar_title_color                        : "#000"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.jpg
 cover_overlay_color                       : "#000000"
 cover_overlay_transparency                : 0
 
@@ -86,7 +86,7 @@ device_color                              : white                               
 
 body_background_color                     : "ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#8643f9"
 
 app_title_color                           : "#000"
 app_price_color                           : "#000"
