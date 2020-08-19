@@ -7,24 +7,24 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : CardioBot
+app_name                                  : GetBetter
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Your Apple Watch measures your heart rate every 4 minutes during the day. With CardioBot, you can easily understand the data captured by the Apple Watch so you can improve your lifestyle and discover notable patterns.
+app_description                           : Удобное приложение для учёта личной эффективности по принципу "колеса жизненного баланса"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Majid Jabrayilov
-your_link                                 : https://mecid.github.io
-your_city                                 : Baku
-email_address                             : cmecid@gmail.com
-facebook_username                         : majid.jabrayilov                                          
-instagram_username                        : mecid8
-twitter_username                          : mecid
-github_username                           : mecid
-youtube_username                          :
+your_name                                 : Artur Islamgulov
+your_link                                 : https://www.notion.so/Artur-Islamgulov-72c202cd6d954fce9dc0f00cba8270d6
+your_city                                 : Kazan
+email_address                             : artur.islamgulov@gmail.com
+facebook_username                         : arturisart                                          
+instagram_username                        : arturisart
+twitter_username                          : zavtra_v_Texas
+github_username                           : stoletnaedine
+youtube_username                          : zavtravTexas
 
 
 
