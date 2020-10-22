@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : cloud
 
   - title                                 : Открывай достижения
-    description                           : При регулярной работе над собой ты будешь открывать новые достижения. Цель — сбалансированное колесо жизни.
+    description                           : При регулярной работе над собой ты будешь открывать новые достижения. Цель — сбалансированное колесо жизни. 
     fontawesome_icon_name                 : trophy
 
   - title                                 : # New Feature Title
