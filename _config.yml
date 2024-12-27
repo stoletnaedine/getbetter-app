@@ -16,15 +16,15 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Artur Islamgulov
-your_link                                 : https://www.notion.so/Artur-Islamgulov-72c202cd6d954fce9dc0f00cba8270d6
+your_name                                 : Athur Islamgulov
+your_link                                 :
 your_city                                 : Kazan
 email_address                             : artur.islamgulov@gmail.com
-facebook_username                         : arturisart                                          
-instagram_username                        : arturisart
-twitter_username                          : zavtra_v_Texas
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
 github_username                           : stoletnaedine
-youtube_username                          : zavtravTexas
+youtube_username                          :
 
 
 
@@ -32,28 +32,32 @@ youtube_username                          : zavtravTexas
 features                                  :
 
   - title                                 : Понятная инфографика
-    description                           : Интерактивная круговая диаграмма, показывающая прогресс в важнейших сферах жизни.
+    description                           : Интерактивная круговая диаграмма, показывающая прогресс в важнейших сферах жизни
     fontawesome_icon_name                 : chart-pie
 
   - title                                 : Восемь сфер твоей жизни
-    description                           : Работа, духовность, отдых, отношения, здоровье, финансы, окружение, творчество. Контролируй своё колесо жизни и поддерживай его баланс.
+    description                           : Работа, духовность, отдых, отношения, здоровье, финансы, окружение, творчество. Контролируй своё колесо жизни и поддерживай его баланс
     fontawesome_icon_name                 : balance-scale
 
   - title                                 : Дневник важных событий
-    description                           : Веди дневник ярких событий своей жизни. Прикрепляй к постам фотографии. Всегда помни, что сделало тебя лучше.
+    description                           : Веди дневник ярких событий своей жизни. Прикрепляй к постам фотографии. Всегда помни, что сделало тебя лучше
     fontawesome_icon_name                 : book-open
 
   - title                                 : Советы дня
-    description                           : Каждый день в GetBetter тебя ждет новый полезный совет дня, который вдохновит на новые свершения.
+    description                           : Каждый день в GetBetter тебя ждет новый полезный совет дня, который вдохновит на новые свершения
     fontawesome_icon_name                 : smile-wink
 
   - title                                 : Сохранность данных
-    description                           : Твои данные хранятся в облаке и доступны с любого iOS-устройства.
+    description                           : Твои данные хранятся в облаке и доступны с любого iOS-устройства
     fontawesome_icon_name                 : cloud
 
   - title                                 : Открывай достижения
-    description                           : При регулярной работе над собой ты будешь открывать новые достижения. Цель — сбалансированное колесо жизни. 
+    description                           : При регулярной работе над собой ты будешь открывать новые достижения. Цель — сбалансированное колесо жизни
     fontawesome_icon_name                 : trophy
+
+  - title                                 : Поддержать автора
+    description                           : Если вам нравится приложение, вы можете прислать донат по ссылке https://www.tbank.ru/cf/5CgxfIxfnI4 (сбор в ТБанке). Спасибо!
+    fontawesome_icon_name                 : circle-dollar-to-slot
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
